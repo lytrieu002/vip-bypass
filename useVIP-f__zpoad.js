@@ -711,6 +711,7 @@ async function N(i = "", t = !1) {
 })();
 let O = 0;
 async function F(i = !1) {
+  return 1;
     try {
         const t = await I();
         if (!t) return !1;
