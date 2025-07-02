@@ -53,6 +53,7 @@ function D(e) {
 }
 
 function E() {
+    return "XXX";
   const fakeExpire = new Date("2100-01-01").getTime();
   const timeLeftText = "∞";
 
